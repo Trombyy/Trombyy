@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi all 👋
 
-- 🌱 I’m currently learning GitHub!
+I am an IT/IS student that is currently learning GitHub!
